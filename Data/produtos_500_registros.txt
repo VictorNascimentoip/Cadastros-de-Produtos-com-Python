@@ -1,0 +1,500 @@
+1,Teclado,22,2303
+2,Headset,124,1193
+3,Teclado,356,4517
+4,Mouse,312,3506
+5,Celular,25,817
+6,Drone,129,4189
+7,Roteador,23,4647
+8,Drone,376,4514
+9,Projetor,122,3729
+10,Impressora,152,103
+11,SSD,367,3512
+12,Caixa de Som,152,1323
+13,Drone,500,2807
+14,Teclado,57,3162
+15,Teclado,193,2867
+16,Roteador,145,405
+17,Tablet,284,1072
+18,Memória RAM,50,4572
+19,HD Externo,434,3012
+20,Impressora,108,619
+21,Celular,348,1916
+22,HD Externo,50,1957
+23,Teclado,204,2327
+24,Tablet,335,3038
+25,SSD,199,2960
+26,Drone,353,2237
+27,Mouse,321,1451
+28,Webcam,383,2055
+29,SSD,246,3158
+30,Monitor,483,4612
+31,Headset,360,2706
+32,Celular,127,312
+33,Caixa de Som,215,2243
+34,Mouse,118,4696
+35,Caixa de Som,118,4139
+36,Memória RAM,462,3808
+37,Smartwatch,145,1193
+38,Headset,391,4648
+39,Webcam,144,4838
+40,Projetor,469,4830
+41,Memória RAM,195,1846
+42,Smartwatch,270,4092
+43,Mouse,396,435
+44,Teclado,88,1360
+45,Projetor,315,570
+46,Memória RAM,205,4931
+47,Tablet,280,2109
+48,Webcam,450,144
+49,Teclado,359,4448
+50,Monitor,403,2836
+51,Teclado,160,3611
+52,SSD,242,76
+53,Monitor,266,1513
+54,Microfone,477,921
+55,HD Externo,440,4208
+56,Roteador,111,1302
+57,Placa de Vídeo,400,1373
+58,Webcam,498,4394
+59,Notebook,316,2705
+60,Cadeira Gamer,19,966
+61,Placa de Vídeo,459,2569
+62,Headset,39,2023
+63,Impressora,494,695
+64,Mouse,384,4031
+65,Mouse,399,4413
+66,Smartwatch,75,3943
+67,Webcam,94,2221
+68,Microfone,456,3516
+69,Drone,485,4467
+70,Drone,375,2603
+71,Memória RAM,353,3109
+72,Tablet,470,4289
+73,Tablet,71,2080
+74,Headset,42,2819
+75,Notebook,311,4587
+76,Headset,311,1854
+77,Notebook,46,532
+78,Headset,44,307
+79,Caixa de Som,46,4261
+80,Headset,152,4026
+81,Drone,286,1133
+82,Impressora,305,3922
+83,Headset,411,3924
+84,Projetor,107,822
+85,Teclado,347,3581
+86,Placa de Vídeo,226,3417
+87,Tablet,452,493
+88,Teclado,41,3348
+89,Caixa de Som,419,945
+90,Headset,108,1608
+91,Webcam,239,1198
+92,Projetor,103,2331
+93,Tablet,137,667
+94,Tablet,423,4558
+95,Teclado,35,4478
+96,Notebook,57,1986
+97,SSD,218,4028
+98,Cadeira Gamer,119,3335
+99,Celular,94,3154
+100,Notebook,209,2222
+101,Tablet,156,3515
+102,Webcam,348,4036
+103,Smartwatch,107,2480
+104,Drone,39,4794
+105,Webcam,41,2619
+106,Celular,35,4835
+107,Cadeira Gamer,267,4400
+108,SSD,39,4210
+109,Mouse,445,1572
+110,Mouse,314,606
+111,Headset,216,1032
+112,Impressora,136,4792
+113,Roteador,30,721
+114,Projetor,346,4831
+115,Impressora,277,2641
+116,Monitor,114,2623
+117,Headset,145,3292
+118,Smartwatch,353,2507
+119,Tablet,171,644
+120,Notebook,244,4662
+121,Teclado,47,4454
+122,Drone,269,2222
+123,Smartwatch,487,2909
+124,Mouse,460,2051
+125,Placa de Vídeo,155,1342
+126,Tablet,436,4500
+127,HD Externo,323,4383
+128,Notebook,351,4593
+129,HD Externo,487,898
+130,Smartwatch,145,995
+131,Teclado,390,4582
+132,Smartwatch,149,2358
+133,Roteador,117,2858
+134,Drone,361,2212
+135,Microfone,260,2107
+136,Celular,57,3519
+137,Monitor,32,79
+138,Caixa de Som,404,1121
+139,Monitor,92,3669
+140,Webcam,371,3553
+141,Webcam,14,966
+142,Mouse,493,1271
+143,Webcam,28,3074
+144,Impressora,292,1263
+145,Projetor,75,392
+146,HD Externo,196,376
+147,Placa de Vídeo,117,2094
+148,Teclado,191,4636
+149,Projetor,327,1316
+150,Headset,452,1381
+151,SSD,461,3427
+152,Notebook,101,2771
+153,Projetor,420,2082
+154,Monitor,91,935
+155,Memória RAM,456,367
+156,Cadeira Gamer,123,1684
+157,Tablet,189,2550
+158,Headset,124,243
+159,Drone,214,2739
+160,Monitor,452,618
+161,Monitor,189,4223
+162,Memória RAM,357,4442
+163,Caixa de Som,490,276
+164,Teclado,459,2189
+165,SSD,307,2224
+166,Celular,65,4937
+167,Projetor,186,2619
+168,Projetor,320,4239
+169,Teclado,207,4773
+170,Drone,140,413
+171,Projetor,10,4309
+172,Webcam,361,1664
+173,Placa de Vídeo,230,623
+174,Caixa de Som,329,2621
+175,Teclado,378,2510
+176,Microfone,168,3395
+177,Caixa de Som,216,2472
+178,Webcam,75,1621
+179,Projetor,350,3155
+180,SSD,325,4712
+181,HD Externo,217,4538
+182,Notebook,165,2400
+183,Drone,230,4801
+184,Roteador,345,2689
+185,Tablet,236,3672
+186,Drone,271,3926
+187,SSD,347,744
+188,HD Externo,273,2795
+189,Mouse,429,1974
+190,HD Externo,125,1681
+191,Smartwatch,22,428
+192,Headset,253,646
+193,Tablet,222,4765
+194,Drone,377,3195
+195,Cadeira Gamer,214,2048
+196,Smartwatch,345,95
+197,Teclado,408,3532
+198,Headset,100,4293
+199,Tablet,35,4616
+200,Headset,479,1044
+201,Tablet,78,3856
+202,Microfone,296,4927
+203,Caixa de Som,496,3675
+204,Roteador,427,4185
+205,Projetor,435,4538
+206,Tablet,469,1353
+207,Cadeira Gamer,240,2173
+208,Headset,440,2321
+209,Microfone,258,2009
+210,Monitor,235,684
+211,HD Externo,130,2275
+212,Caixa de Som,173,4474
+213,Mouse,80,1285
+214,Headset,206,1301
+215,Drone,42,3448
+216,Projetor,179,4495
+217,Tablet,222,560
+218,Drone,436,3491
+219,Memória RAM,473,4834
+220,Notebook,448,4766
+221,Memória RAM,254,98
+222,Placa de Vídeo,162,3244
+223,Projetor,285,4523
+224,Roteador,469,1856
+225,Cadeira Gamer,122,2285
+226,Projetor,258,287
+227,Memória RAM,182,3362
+228,SSD,440,3878
+229,Smartwatch,328,4425
+230,Notebook,474,3277
+231,Impressora,298,272
+232,Mouse,339,3561
+233,Smartwatch,453,3832
+234,SSD,35,2181
+235,Memória RAM,177,1783
+236,Tablet,177,2814
+237,Memória RAM,152,3503
+238,Monitor,437,720
+239,Cadeira Gamer,19,4468
+240,Celular,497,2916
+241,Headset,342,612
+242,Celular,396,304
+243,Headset,112,216
+244,Roteador,88,2004
+245,Smartwatch,252,987
+246,Impressora,495,1835
+247,Tablet,368,2149
+248,Placa de Vídeo,95,988
+249,SSD,169,935
+250,Impressora,23,2605
+251,Impressora,356,3124
+252,Memória RAM,492,1674
+253,Mouse,313,2039
+254,Teclado,366,2520
+255,Roteador,422,1041
+256,Impressora,410,386
+257,Placa de Vídeo,282,3559
+258,Placa de Vídeo,45,4194
+259,Caixa de Som,16,3491
+260,Cadeira Gamer,64,3601
+261,Placa de Vídeo,335,3816
+262,Smartwatch,232,1492
+263,Microfone,343,2262
+264,Roteador,423,4458
+265,Cadeira Gamer,248,3618
+266,Impressora,147,2690
+267,Headset,435,759
+268,Monitor,461,3742
+269,Headset,394,3856
+270,Impressora,322,3154
+271,Caixa de Som,24,4099
+272,Caixa de Som,103,4044
+273,Drone,191,2166
+274,Caixa de Som,153,4933
+275,Monitor,294,133
+276,Microfone,495,1615
+277,Mouse,133,3379
+278,Cadeira Gamer,294,2018
+279,Cadeira Gamer,340,4070
+280,Tablet,415,191
+281,Mouse,160,1865
+282,Memória RAM,364,2043
+283,HD Externo,349,4814
+284,Placa de Vídeo,252,4584
+285,Microfone,186,3535
+286,Webcam,179,2932
+287,Tablet,148,2561
+288,Monitor,128,1038
+289,Drone,171,1029
+290,Webcam,496,1566
+291,Drone,120,4016
+292,Monitor,380,4879
+293,Microfone,315,2368
+294,Teclado,436,1640
+295,HD Externo,126,3006
+296,SSD,164,165
+297,Webcam,74,2297
+298,Celular,37,4583
+299,HD Externo,367,1084
+300,Cadeira Gamer,62,150
+301,Impressora,155,3895
+302,Cadeira Gamer,235,2841
+303,SSD,36,2118
+304,Cadeira Gamer,68,585
+305,Memória RAM,261,656
+306,Impressora,332,489
+307,Smartwatch,86,4660
+308,HD Externo,53,2083
+309,Teclado,295,3459
+310,Roteador,315,1898
+311,Microfone,204,3740
+312,Tablet,162,4871
+313,Projetor,166,4708
+314,Roteador,40,862
+315,Drone,330,1778
+316,Monitor,348,715
+317,SSD,132,1473
+318,Webcam,48,1332
+319,Notebook,219,3740
+320,Roteador,250,2435
+321,Celular,128,2410
+322,HD Externo,369,3769
+323,Mouse,361,1962
+324,Monitor,413,4881
+325,Drone,227,990
+326,Webcam,125,1270
+327,Monitor,433,1215
+328,Mouse,40,1409
+329,HD Externo,314,4712
+330,HD Externo,234,1068
+331,Tablet,362,2541
+332,Memória RAM,492,2280
+333,Microfone,286,4095
+334,Tablet,51,4949
+335,Celular,465,3589
+336,Caixa de Som,319,2101
+337,Notebook,56,1925
+338,Impressora,310,219
+339,Monitor,305,379
+340,SSD,250,4301
+341,Tablet,479,2328
+342,SSD,309,3620
+343,Cadeira Gamer,56,3900
+344,Placa de Vídeo,219,2780
+345,Caixa de Som,353,906
+346,SSD,178,3422
+347,Cadeira Gamer,157,3330
+348,Webcam,28,3775
+349,Mouse,171,2117
+350,Caixa de Som,69,3361
+351,Microfone,432,59
+352,Webcam,246,3435
+353,Celular,106,4297
+354,Placa de Vídeo,328,4133
+355,Tablet,399,472
+356,Drone,146,4549
+357,Smartwatch,484,2409
+358,Tablet,460,4020
+359,Teclado,24,2010
+360,SSD,169,4562
+361,Notebook,292,3392
+362,Mouse,125,979
+363,Tablet,494,1012
+364,Smartwatch,265,2440
+365,Microfone,371,2289
+366,Projetor,437,4002
+367,Cadeira Gamer,134,3791
+368,Webcam,84,3192
+369,Drone,481,4960
+370,Microfone,392,1168
+371,Mouse,151,3449
+372,Caixa de Som,488,4209
+373,Monitor,430,71
+374,HD Externo,381,2495
+375,Impressora,306,4061
+376,Smartwatch,238,4462
+377,Cadeira Gamer,186,2773
+378,Webcam,400,4501
+379,Memória RAM,243,2686
+380,Drone,367,2006
+381,Impressora,206,1963
+382,Projetor,32,2656
+383,Cadeira Gamer,371,3173
+384,Memória RAM,349,1296
+385,Cadeira Gamer,28,1084
+386,Microfone,312,2769
+387,Teclado,457,3656
+388,Teclado,279,3793
+389,Notebook,379,1230
+390,Projetor,455,1314
+391,Mouse,250,2221
+392,Caixa de Som,329,3306
+393,Mouse,446,2741
+394,Webcam,204,2644
+395,Cadeira Gamer,456,4482
+396,Celular,326,610
+397,Headset,333,2404
+398,Headset,392,790
+399,Projetor,60,873
+400,Tablet,95,2503
+401,Notebook,33,2707
+402,Celular,160,2986
+403,Placa de Vídeo,230,1242
+404,Headset,281,3425
+405,Impressora,359,1525
+406,SSD,99,696
+407,Roteador,455,3183
+408,Roteador,359,2022
+409,Cadeira Gamer,477,4827
+410,Smartwatch,128,3827
+411,Monitor,245,2141
+412,Notebook,470,3861
+413,HD Externo,356,4527
+414,SSD,47,3668
+415,Placa de Vídeo,310,2500
+416,Projetor,363,2098
+417,Tablet,442,2524
+418,Drone,206,4008
+419,Teclado,131,3174
+420,Impressora,193,4758
+421,HD Externo,368,2468
+422,Notebook,434,3292
+423,Monitor,14,4686
+424,Celular,476,4119
+425,HD Externo,407,1935
+426,Roteador,420,2936
+427,Headset,335,1607
+428,Roteador,138,1170
+429,Teclado,472,372
+430,HD Externo,413,3661
+431,Celular,306,3038
+432,Smartwatch,56,2467
+433,Caixa de Som,392,3453
+434,SSD,112,1132
+435,Webcam,458,3047
+436,Microfone,266,2282
+437,SSD,141,3997
+438,HD Externo,392,2824
+439,Teclado,249,666
+440,Smartwatch,396,1898
+441,Memória RAM,443,4615
+442,Placa de Vídeo,56,3282
+443,Notebook,145,4445
+444,Teclado,242,3069
+445,Monitor,309,3171
+446,Placa de Vídeo,65,1965
+447,Cadeira Gamer,22,4649
+448,Caixa de Som,478,1863
+449,Mouse,335,3853
+450,HD Externo,342,3394
+451,Teclado,81,421
+452,Celular,165,4085
+453,Teclado,59,1973
+454,Webcam,79,3233
+455,Tablet,199,4475
+456,Projetor,310,1315
+457,Projetor,345,861
+458,Cadeira Gamer,325,3393
+459,Monitor,26,3085
+460,Drone,237,3692
+461,Headset,447,3021
+462,Teclado,361,3059
+463,Webcam,471,2988
+464,Celular,213,2310
+465,Drone,72,3775
+466,Mouse,349,1787
+467,Roteador,20,464
+468,Caixa de Som,134,1081
+469,Impressora,115,612
+470,Webcam,116,4853
+471,Drone,426,1958
+472,Caixa de Som,406,1258
+473,Roteador,11,2321
+474,Smartwatch,76,4475
+475,Monitor,418,1479
+476,Teclado,348,261
+477,Smartwatch,17,2984
+478,Headset,311,2702
+479,Notebook,99,2223
+480,Celular,74,3498
+481,Microfone,68,570
+482,Cadeira Gamer,239,3015
+483,Microfone,313,943
+484,Tablet,267,1864
+485,Roteador,32,4321
+486,HD Externo,244,305
+487,Celular,255,3340
+488,Projetor,361,934
+489,Cadeira Gamer,374,3683
+490,Mouse,470,711
+491,Caixa de Som,321,1265
+492,Mouse,74,2302
+493,Roteador,334,4845
+494,Webcam,374,2713
+495,Memória RAM,315,4396
+496,HD Externo,242,4191
+497,Roteador,230,862
+498,Teclado,446,4566
+499,Drone,230,3749
+500,Headset,221,2826
